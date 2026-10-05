@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[@BeforeSuite-database connectivity established]]>
+    </line>
+    <line>
+      <![CDATA[@BeforeTest - report starts]]>
+    </line>
+    <line>
+      <![CDATA[@BeforeClass - launch browser]]>
+    </line>
+    <line>
+      <![CDATA[@BeforeClass - launch browser]]>
+    </line>
+    <line>
+      <![CDATA[@BeforeClass - launch browser]]>
+    </line>
+    <line>
+      <![CDATA[chromelaunched]]>
+    </line>
+    <line>
+      <![CDATA[chromelaunched]]>
+    </line>
+    <line>
+      <![CDATA[chromelaunched]]>
+    </line>
+    <line>
+      <![CDATA[@BeforeMethod - login to the application]]>
+    </line>
+    <line>
+      <![CDATA[@BeforeMethod - login to the application]]>
+    </line>
+    <line>
+      <![CDATA[@BeforeMethod - login to the application]]>
+    </line>
+    <line>
+      <![CDATA[TC002_VerifyUserIsAbleToCreateANewContactsWithAllFields Executed]]>
+    </line>
+    <line>
+      <![CDATA[@AfterMethod - logout from the application]]>
+    </line>
+    <line>
+      <![CDATA[@AfterClass - close browser]]>
+    </line>
+    <line>
+      <![CDATA[TC001_VerifyIsAbleToCreateANewContactsWithMandatoryFields Executed]]>
+    </line>
+    <line>
+      <![CDATA[@AfterMethod - logout from the application]]>
+    </line>
+    <line>
+      <![CDATA[@AfterClass - close browser]]>
+    </line>
+    <line>
+      <![CDATA[@AfterMethod - logout from the application]]>
+    </line>
+    <line>
+      <![CDATA[@AfterClass - close browser]]>
+    </line>
+    <line>
+      <![CDATA[@AfterTest - report backed-up]]>
+    </line>
+    <line>
+      <![CDATA[@BeforeTest - report starts]]>
+    </line>
+    <line>
+      <![CDATA[@BeforeClass - launch browser]]>
+    </line>
+    <line>
+      <![CDATA[@BeforeClass - launch browser]]>
+    </line>
+    <line>
+      <![CDATA[@BeforeClass - launch browser]]>
+    </line>
+    <line>
+      <![CDATA[edgelaunched]]>
+    </line>
+    <line>
+      <![CDATA[edgelaunched]]>
+    </line>
+    <line>
+      <![CDATA[edgelaunched]]>
+    </line>
+    <line>
+      <![CDATA[@BeforeMethod - login to the application]]>
+    </line>
+    <line>
+      <![CDATA[@BeforeMethod - login to the application]]>
+    </line>
+    <line>
+      <![CDATA[@BeforeMethod - login to the application]]>
+    </line>
+    <line>
+      <![CDATA[TC001_VerifyIsAbleToCreateANewContactsWithMandatoryFields Executed]]>
+    </line>
+    <line>
+      <![CDATA[@AfterMethod - logout from the application]]>
+    </line>
+    <line>
+      <![CDATA[@AfterClass - close browser]]>
+    </line>
+    <line>
+      <![CDATA[TC002_VerifyUserIsAbleToCreateANewContactsWithAllFields Executed]]>
+    </line>
+    <line>
+      <![CDATA[@AfterMethod - logout from the application]]>
+    </line>
+    <line>
+      <![CDATA[@AfterClass - close browser]]>
+    </line>
+    <line>
+      <![CDATA[@AfterMethod - logout from the application]]>
+    </line>
+    <line>
+      <![CDATA[@AfterClass - close browser]]>
+    </line>
+    <line>
+      <![CDATA[@AfterTest - report backed-up]]>
+    </line>
+    <line>
+      <![CDATA[@BeforeTest - report starts]]>
+    </line>
+    <line>
+      <![CDATA[@BeforeClass - launch browser]]>
+    </line>
+    <line>
+      <![CDATA[@BeforeClass - launch browser]]>
+    </line>
+    <line>
+      <![CDATA[@BeforeClass - launch browser]]>
+    </line>
+    <line>
+      <![CDATA[firefoxlaunched]]>
+    </line>
+    <line>
+      <![CDATA[firefoxlaunched]]>
+    </line>
+    <line>
+      <![CDATA[firefoxlaunched]]>
+    </line>
+    <line>
+      <![CDATA[@BeforeMethod - login to the application]]>
+    </line>
+    <line>
+      <![CDATA[@BeforeMethod - login to the application]]>
+    </line>
+    <line>
+      <![CDATA[@BeforeMethod - login to the application]]>
+    </line>
+    <line>
+      <![CDATA[@AfterMethod - logout from the application]]>
+    </line>
+    <line>
+      <![CDATA[@AfterClass - close browser]]>
+    </line>
+    <line>
+      <![CDATA[TC002_VerifyUserIsAbleToCreateANewContactsWithAllFields Executed]]>
+    </line>
+    <line>
+      <![CDATA[@AfterMethod - logout from the application]]>
+    </line>
+    <line>
+      <![CDATA[@AfterClass - close browser]]>
+    </line>
+    <line>
+      <![CDATA[TC001_VerifyIsAbleToCreateANewContactsWithMandatoryFields Executed]]>
+    </line>
+    <line>
+      <![CDATA[@AfterMethod - logout from the application]]>
+    </line>
+    <line>
+      <![CDATA[@AfterClass - close browser]]>
+    </line>
+    <line>
+      <![CDATA[@AfterTest - report backed-up]]>
+    </line>
+    <line>
+      <![CDATA[@AfterSuite - database connectivity terminated]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2026-10-01T08:23:10 IST" name="CrossBrowserSuite_testng.xml" finished-at="2026-10-01T08:23:40 IST" duration-ms="30221">
+    <groups>
+    </groups>
+    <test started-at="2026-10-01T08:23:10 IST" name="ChromeTest" finished-at="2026-10-01T08:23:18 IST" duration-ms="8110">
+      <class name="com.vtiger.contacts.TC0033_VerifyUserIsAbleToCreateContactWithDataFields">
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:com.vtiger.contacts.TC0033_VerifyUserIsAbleToCreateContactWithDataFields@b3ca52e]" started-at="2026-10-01T08:23:10 IST" name="beforeClass" finished-at="2026-10-01T08:23:14 IST" duration-ms="3967" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[@BeforeClass - launch browser]]>
+            </line>
+            <line>
+              <![CDATA[chromelaunched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.vtiger.contacts.TC0033_VerifyUserIsAbleToCreateContactWithDataFields@b3ca52e]" started-at="2026-10-01T08:23:14 IST" name="beforeMethod" finished-at="2026-10-01T08:23:17 IST" duration-ms="3358" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[@BeforeMethod - login to the application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="tC003_VerifyUserIsAbleToCreateContactWithDataFields()[pri:0, instance:com.vtiger.contacts.TC0033_VerifyUserIsAbleToCreateContactWithDataFields@b3ca52e]" started-at="2026-10-01T08:23:17 IST" name="tC003_VerifyUserIsAbleToCreateContactWithDataFields" finished-at="2026-10-01T08:23:17 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tC003_VerifyUserIsAbleToCreateContactWithDataFields -->
+        <test-method is-config="true" signature="afterbeforeMethod()[pri:0, instance:com.vtiger.contacts.TC0033_VerifyUserIsAbleToCreateContactWithDataFields@b3ca52e]" started-at="2026-10-01T08:23:17 IST" name="afterbeforeMethod" finished-at="2026-10-01T08:23:17 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[@AfterMethod - logout from the application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterbeforeMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.vtiger.contacts.TC0033_VerifyUserIsAbleToCreateContactWithDataFields@b3ca52e]" started-at="2026-10-01T08:23:17 IST" name="afterClass" finished-at="2026-10-01T08:23:18 IST" duration-ms="725" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[@AfterClass - close browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.vtiger.contacts.TC0033_VerifyUserIsAbleToCreateContactWithDataFields -->
+      <class name="com.vtiger.contacts.TC0011_VerifyIsAbleToCreateANewContactsWithMandatoryFields">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.vtiger.contacts.TC0011_VerifyIsAbleToCreateANewContactsWithMandatoryFields@2aceadd4]" started-at="2026-10-01T08:23:10 IST" name="beforeTest" finished-at="2026-10-01T08:23:10 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[@BeforeTest - report starts]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:com.vtiger.contacts.TC0011_VerifyIsAbleToCreateANewContactsWithMandatoryFields@2aceadd4]" started-at="2026-10-01T08:23:10 IST" name="beforeClass" finished-at="2026-10-01T08:23:13 IST" duration-ms="3939" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[@BeforeClass - launch browser]]>
+            </line>
+            <line>
+              <![CDATA[chromelaunched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.vtiger.contacts.TC0011_VerifyIsAbleToCreateANewContactsWithMandatoryFields@2aceadd4]" started-at="2026-10-01T08:23:14 IST" name="beforeMethod" finished-at="2026-10-01T08:23:17 IST" duration-ms="3240" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[@BeforeMethod - login to the application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="tC001_VerifyUserIsAbleToCreateANewContactWithMandatoryFields()[pri:0, instance:com.vtiger.contacts.TC0011_VerifyIsAbleToCreateANewContactsWithMandatoryFields@2aceadd4]" started-at="2026-10-01T08:23:17 IST" name="tC001_VerifyUserIsAbleToCreateANewContactWithMandatoryFields" finished-at="2026-10-01T08:23:17 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TC001_VerifyIsAbleToCreateANewContactsWithMandatoryFields Executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tC001_VerifyUserIsAbleToCreateANewContactWithMandatoryFields -->
+        <test-method is-config="true" signature="afterbeforeMethod()[pri:0, instance:com.vtiger.contacts.TC0011_VerifyIsAbleToCreateANewContactsWithMandatoryFields@2aceadd4]" started-at="2026-10-01T08:23:17 IST" name="afterbeforeMethod" finished-at="2026-10-01T08:23:17 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[@AfterMethod - logout from the application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterbeforeMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.vtiger.contacts.TC0011_VerifyIsAbleToCreateANewContactsWithMandatoryFields@2aceadd4]" started-at="2026-10-01T08:23:17 IST" name="afterClass" finished-at="2026-10-01T08:23:18 IST" duration-ms="783" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[@AfterClass - close browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.vtiger.contacts.TC0011_VerifyIsAbleToCreateANewContactsWithMandatoryFields@2aceadd4]" started-at="2026-10-01T08:23:18 IST" name="afterTest" finished-at="2026-10-01T08:23:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[@AfterTest - report backed-up]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.vtiger.contacts.TC0011_VerifyIsAbleToCreateANewContactsWithMandatoryFields -->
+      <class name="com.vtiger.contacts.TC0022_VerifyUserIsAbleToCreateANewContactsWithAllFields">
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:com.vtiger.contacts.TC0022_VerifyUserIsAbleToCreateANewContactsWithAllFields@45c7e403]" started-at="2026-10-01T08:23:10 IST" name="beforeClass" finished-at="2026-10-01T08:23:13 IST" duration-ms="3939" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[@BeforeClass - launch browser]]>
+            </line>
+            <line>
+              <![CDATA[chromelaunched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.vtiger.contacts.TC0022_VerifyUserIsAbleToCreateANewContactsWithAllFields@45c7e403]" started-at="2026-10-01T08:23:14 IST" name="beforeMethod" finished-at="2026-10-01T08:23:17 IST" duration-ms="3176" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[@BeforeMethod - login to the application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="tC002_VerifyUserIsAbleToCreateANewContactWithAllFields()[pri:0, instance:com.vtiger.contacts.TC0022_VerifyUserIsAbleToCreateANewContactsWithAllFields@45c7e403]" started-at="2026-10-01T08:23:17 IST" name="tC002_VerifyUserIsAbleToCreateANewContactWithAllFields" finished-at="2026-10-01T08:23:17 IST" duration-ms="38" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TC002_VerifyUserIsAbleToCreateANewContactsWithAllFields Executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tC002_VerifyUserIsAbleToCreateANewContactWithAllFields -->
+        <test-method is-config="true" signature="afterbeforeMethod()[pri:0, instance:com.vtiger.contacts.TC0022_VerifyUserIsAbleToCreateANewContactsWithAllFields@45c7e403]" started-at="2026-10-01T08:23:17 IST" name="afterbeforeMethod" finished-at="2026-10-01T08:23:17 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[@AfterMethod - logout from the application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterbeforeMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.vtiger.contacts.TC0022_VerifyUserIsAbleToCreateANewContactsWithAllFields@45c7e403]" started-at="2026-10-01T08:23:17 IST" name="afterClass" finished-at="2026-10-01T08:23:18 IST" duration-ms="849" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[@AfterClass - close browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.vtiger.contacts.TC0022_VerifyUserIsAbleToCreateANewContactsWithAllFields -->
+    </test> <!-- ChromeTest -->
+    <test started-at="2026-10-01T08:23:18 IST" name="EdgeTest" finished-at="2026-10-01T08:23:24 IST" duration-ms="6557">
+      <class name="com.vtiger.contacts.TC0033_VerifyUserIsAbleToCreateContactWithDataFields">
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:com.vtiger.contacts.TC0033_VerifyUserIsAbleToCreateContactWithDataFields@1f59a598]" started-at="2026-10-01T08:23:18 IST" name="beforeClass" finished-at="2026-10-01T08:23:21 IST" duration-ms="2837" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[@BeforeClass - launch browser]]>
+            </line>
+            <line>
+              <![CDATA[edgelaunched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.vtiger.contacts.TC0033_VerifyUserIsAbleToCreateContactWithDataFields@1f59a598]" started-at="2026-10-01T08:23:21 IST" name="beforeMethod" finished-at="2026-10-01T08:23:24 IST" duration-ms="3226" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[@BeforeMethod - login to the application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="tC003_VerifyUserIsAbleToCreateContactWithDataFields()[pri:0, instance:com.vtiger.contacts.TC0033_VerifyUserIsAbleToCreateContactWithDataFields@1f59a598]" started-at="2026-10-01T08:23:24 IST" name="tC003_VerifyUserIsAbleToCreateContactWithDataFields" finished-at="2026-10-01T08:23:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tC003_VerifyUserIsAbleToCreateContactWithDataFields -->
+        <test-method is-config="true" signature="afterbeforeMethod()[pri:0, instance:com.vtiger.contacts.TC0033_VerifyUserIsAbleToCreateContactWithDataFields@1f59a598]" started-at="2026-10-01T08:23:24 IST" name="afterbeforeMethod" finished-at="2026-10-01T08:23:24 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[@AfterMethod - logout from the application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterbeforeMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.vtiger.contacts.TC0033_VerifyUserIsAbleToCreateContactWithDataFields@1f59a598]" started-at="2026-10-01T08:23:24 IST" name="afterClass" finished-at="2026-10-01T08:23:24 IST" duration-ms="478" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[@AfterClass - close browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.vtiger.contacts.TC0033_VerifyUserIsAbleToCreateContactWithDataFields -->
+      <class name="com.vtiger.contacts.TC0011_VerifyIsAbleToCreateANewContactsWithMandatoryFields">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.vtiger.contacts.TC0011_VerifyIsAbleToCreateANewContactsWithMandatoryFields@7ee8290b]" started-at="2026-10-01T08:23:18 IST" name="beforeTest" finished-at="2026-10-01T08:23:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[@BeforeTest - report starts]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:com.vtiger.contacts.TC0011_VerifyIsAbleToCreateANewContactsWithMandatoryFields@7ee8290b]" started-at="2026-10-01T08:23:18 IST" name="beforeClass" finished-at="2026-10-01T08:23:20 IST" duration-ms="2487" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[@BeforeClass - launch browser]]>
+            </line>
+            <line>
+              <![CDATA[edgelaunched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.vtiger.contacts.TC0011_VerifyIsAbleToCreateANewContactsWithMandatoryFields@7ee8290b]" started-at="2026-10-01T08:23:20 IST" name="beforeMethod" finished-at="2026-10-01T08:23:23 IST" duration-ms="3170" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[@BeforeMethod - login to the application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="tC001_VerifyUserIsAbleToCreateANewContactWithMandatoryFields()[pri:0, instance:com.vtiger.contacts.TC0011_VerifyIsAbleToCreateANewContactsWithMandatoryFields@7ee8290b]" started-at="2026-10-01T08:23:23 IST" name="tC001_VerifyUserIsAbleToCreateANewContactWithMandatoryFields" finished-at="2026-10-01T08:23:23 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TC001_VerifyIsAbleToCreateANewContactsWithMandatoryFields Executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tC001_VerifyUserIsAbleToCreateANewContactWithMandatoryFields -->
+        <test-method is-config="true" signature="afterbeforeMethod()[pri:0, instance:com.vtiger.contacts.TC0011_VerifyIsAbleToCreateANewContactsWithMandatoryFields@7ee8290b]" started-at="2026-10-01T08:23:23 IST" name="afterbeforeMethod" finished-at="2026-10-01T08:23:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[@AfterMethod - logout from the application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterbeforeMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.vtiger.contacts.TC0011_VerifyIsAbleToCreateANewContactsWithMandatoryFields@7ee8290b]" started-at="2026-10-01T08:23:23 IST" name="afterClass" finished-at="2026-10-01T08:23:24 IST" duration-ms="654" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[@AfterClass - close browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.vtiger.contacts.TC0011_VerifyIsAbleToCreateANewContactsWithMandatoryFields@7ee8290b]" started-at="2026-10-01T08:23:24 IST" name="afterTest" finished-at="2026-10-01T08:23:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[@AfterTest - report backed-up]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.vtiger.contacts.TC0011_VerifyIsAbleToCreateANewContactsWithMandatoryFields -->
+      <class name="com.vtiger.contacts.TC0022_VerifyUserIsAbleToCreateANewContactsWithAllFields">
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:com.vtiger.contacts.TC0022_VerifyUserIsAbleToCreateANewContactsWithAllFields@1e178745]" started-at="2026-10-01T08:23:18 IST" name="beforeClass" finished-at="2026-10-01T08:23:20 IST" duration-ms="2497" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[@BeforeClass - launch browser]]>
+            </line>
+            <line>
+              <![CDATA[edgelaunched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.vtiger.contacts.TC0022_VerifyUserIsAbleToCreateANewContactsWithAllFields@1e178745]" started-at="2026-10-01T08:23:20 IST" name="beforeMethod" finished-at="2026-10-01T08:23:23 IST" duration-ms="3260" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[@BeforeMethod - login to the application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="tC002_VerifyUserIsAbleToCreateANewContactWithAllFields()[pri:0, instance:com.vtiger.contacts.TC0022_VerifyUserIsAbleToCreateANewContactsWithAllFields@1e178745]" started-at="2026-10-01T08:23:23 IST" name="tC002_VerifyUserIsAbleToCreateANewContactWithAllFields" finished-at="2026-10-01T08:23:23 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TC002_VerifyUserIsAbleToCreateANewContactsWithAllFields Executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tC002_VerifyUserIsAbleToCreateANewContactWithAllFields -->
+        <test-method is-config="true" signature="afterbeforeMethod()[pri:0, instance:com.vtiger.contacts.TC0022_VerifyUserIsAbleToCreateANewContactsWithAllFields@1e178745]" started-at="2026-10-01T08:23:23 IST" name="afterbeforeMethod" finished-at="2026-10-01T08:23:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[@AfterMethod - logout from the application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterbeforeMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.vtiger.contacts.TC0022_VerifyUserIsAbleToCreateANewContactsWithAllFields@1e178745]" started-at="2026-10-01T08:23:23 IST" name="afterClass" finished-at="2026-10-01T08:23:24 IST" duration-ms="619" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[@AfterClass - close browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.vtiger.contacts.TC0022_VerifyUserIsAbleToCreateANewContactsWithAllFields -->
+    </test> <!-- EdgeTest -->
+    <test started-at="2026-10-01T08:23:24 IST" name="FirefoxTest" finished-at="2026-10-01T08:23:40 IST" duration-ms="15488">
+      <class name="com.vtiger.contacts.TC0011_VerifyIsAbleToCreateANewContactsWithMandatoryFields">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.vtiger.contacts.TC0011_VerifyIsAbleToCreateANewContactsWithMandatoryFields@26b3fd41]" started-at="2026-10-01T08:23:09 IST" name="beforeSuite" finished-at="2026-10-01T08:23:10 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[@BeforeSuite-database connectivity established]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.vtiger.contacts.TC0011_VerifyIsAbleToCreateANewContactsWithMandatoryFields@26b3fd41]" started-at="2026-10-01T08:23:24 IST" name="beforeTest" finished-at="2026-10-01T08:23:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[@BeforeTest - report starts]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:com.vtiger.contacts.TC0011_VerifyIsAbleToCreateANewContactsWithMandatoryFields@26b3fd41]" started-at="2026-10-01T08:23:24 IST" name="beforeClass" finished-at="2026-10-01T08:23:34 IST" duration-ms="10002" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[@BeforeClass - launch browser]]>
+            </line>
+            <line>
+              <![CDATA[firefoxlaunched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.vtiger.contacts.TC0011_VerifyIsAbleToCreateANewContactsWithMandatoryFields@26b3fd41]" started-at="2026-10-01T08:23:34 IST" name="beforeMethod" finished-at="2026-10-01T08:23:38 IST" duration-ms="3917" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[@BeforeMethod - login to the application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="tC001_VerifyUserIsAbleToCreateANewContactWithMandatoryFields()[pri:0, instance:com.vtiger.contacts.TC0011_VerifyIsAbleToCreateANewContactsWithMandatoryFields@26b3fd41]" started-at="2026-10-01T08:23:38 IST" name="tC001_VerifyUserIsAbleToCreateANewContactWithMandatoryFields" finished-at="2026-10-01T08:23:38 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TC001_VerifyIsAbleToCreateANewContactsWithMandatoryFields Executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tC001_VerifyUserIsAbleToCreateANewContactWithMandatoryFields -->
+        <test-method is-config="true" signature="afterbeforeMethod()[pri:0, instance:com.vtiger.contacts.TC0011_VerifyIsAbleToCreateANewContactsWithMandatoryFields@26b3fd41]" started-at="2026-10-01T08:23:38 IST" name="afterbeforeMethod" finished-at="2026-10-01T08:23:38 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[@AfterMethod - logout from the application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterbeforeMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.vtiger.contacts.TC0011_VerifyIsAbleToCreateANewContactsWithMandatoryFields@26b3fd41]" started-at="2026-10-01T08:23:38 IST" name="afterClass" finished-at="2026-10-01T08:23:40 IST" duration-ms="1557" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[@AfterClass - close browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.vtiger.contacts.TC0011_VerifyIsAbleToCreateANewContactsWithMandatoryFields@26b3fd41]" started-at="2026-10-01T08:23:40 IST" name="afterTest" finished-at="2026-10-01T08:23:40 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[@AfterTest - report backed-up]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.vtiger.contacts.TC0011_VerifyIsAbleToCreateANewContactsWithMandatoryFields@26b3fd41]" started-at="2026-10-01T08:23:40 IST" name="afterSuite" finished-at="2026-10-01T08:23:40 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[@AfterSuite - database connectivity terminated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.vtiger.contacts.TC0011_VerifyIsAbleToCreateANewContactsWithMandatoryFields -->
+      <class name="com.vtiger.contacts.TC0033_VerifyUserIsAbleToCreateContactWithDataFields">
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:com.vtiger.contacts.TC0033_VerifyUserIsAbleToCreateContactWithDataFields@7494f96a]" started-at="2026-10-01T08:23:24 IST" name="beforeClass" finished-at="2026-10-01T08:23:33 IST" duration-ms="9190" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[@BeforeClass - launch browser]]>
+            </line>
+            <line>
+              <![CDATA[firefoxlaunched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.vtiger.contacts.TC0033_VerifyUserIsAbleToCreateContactWithDataFields@7494f96a]" started-at="2026-10-01T08:23:33 IST" name="beforeMethod" finished-at="2026-10-01T08:23:37 IST" duration-ms="3438" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[@BeforeMethod - login to the application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="tC003_VerifyUserIsAbleToCreateContactWithDataFields()[pri:0, instance:com.vtiger.contacts.TC0033_VerifyUserIsAbleToCreateContactWithDataFields@7494f96a]" started-at="2026-10-01T08:23:37 IST" name="tC003_VerifyUserIsAbleToCreateContactWithDataFields" finished-at="2026-10-01T08:23:37 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tC003_VerifyUserIsAbleToCreateContactWithDataFields -->
+        <test-method is-config="true" signature="afterbeforeMethod()[pri:0, instance:com.vtiger.contacts.TC0033_VerifyUserIsAbleToCreateContactWithDataFields@7494f96a]" started-at="2026-10-01T08:23:37 IST" name="afterbeforeMethod" finished-at="2026-10-01T08:23:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[@AfterMethod - logout from the application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterbeforeMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.vtiger.contacts.TC0033_VerifyUserIsAbleToCreateContactWithDataFields@7494f96a]" started-at="2026-10-01T08:23:37 IST" name="afterClass" finished-at="2026-10-01T08:23:39 IST" duration-ms="2272" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[@AfterClass - close browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.vtiger.contacts.TC0033_VerifyUserIsAbleToCreateContactWithDataFields -->
+      <class name="com.vtiger.contacts.TC0022_VerifyUserIsAbleToCreateANewContactsWithAllFields">
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:com.vtiger.contacts.TC0022_VerifyUserIsAbleToCreateANewContactsWithAllFields@561b6512]" started-at="2026-10-01T08:23:24 IST" name="beforeClass" finished-at="2026-10-01T08:23:34 IST" duration-ms="9410" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[@BeforeClass - launch browser]]>
+            </line>
+            <line>
+              <![CDATA[firefoxlaunched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.vtiger.contacts.TC0022_VerifyUserIsAbleToCreateANewContactsWithAllFields@561b6512]" started-at="2026-10-01T08:23:34 IST" name="beforeMethod" finished-at="2026-10-01T08:23:37 IST" duration-ms="3480" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[@BeforeMethod - login to the application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="tC002_VerifyUserIsAbleToCreateANewContactWithAllFields()[pri:0, instance:com.vtiger.contacts.TC0022_VerifyUserIsAbleToCreateANewContactsWithAllFields@561b6512]" started-at="2026-10-01T08:23:37 IST" name="tC002_VerifyUserIsAbleToCreateANewContactWithAllFields" finished-at="2026-10-01T08:23:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TC002_VerifyUserIsAbleToCreateANewContactsWithAllFields Executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tC002_VerifyUserIsAbleToCreateANewContactWithAllFields -->
+        <test-method is-config="true" signature="afterbeforeMethod()[pri:0, instance:com.vtiger.contacts.TC0022_VerifyUserIsAbleToCreateANewContactsWithAllFields@561b6512]" started-at="2026-10-01T08:23:37 IST" name="afterbeforeMethod" finished-at="2026-10-01T08:23:37 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[@AfterMethod - logout from the application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterbeforeMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.vtiger.contacts.TC0022_VerifyUserIsAbleToCreateANewContactsWithAllFields@561b6512]" started-at="2026-10-01T08:23:37 IST" name="afterClass" finished-at="2026-10-01T08:23:39 IST" duration-ms="2085" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[@AfterClass - close browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.vtiger.contacts.TC0022_VerifyUserIsAbleToCreateANewContactsWithAllFields -->
+    </test> <!-- FirefoxTest -->
+  </suite> <!-- CrossBrowserSuite_testng.xml -->
+</testng-results>

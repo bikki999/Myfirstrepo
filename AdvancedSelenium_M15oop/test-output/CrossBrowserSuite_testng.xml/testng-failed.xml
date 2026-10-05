@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [CrossBrowserSuite_testng.xml]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="classes" name="FirefoxTest(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.vtiger.contacts.TC0033_VerifyUserIsAbleToCreateContactWithDataFields">
+        <methods>
+          <include name="tC003_VerifyUserIsAbleToCreateContactWithDataFields"/>
+          <include name="beforeClass"/>
+          <include name="afterbeforeMethod"/>
+          <include name="beforeTest"/>
+          <include name="afterClass"/>
+          <include name="afterTest"/>
+          <include name="afterSuite"/>
+          <include name="beforeSuite"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.vtiger.contacts.TC0033_VerifyUserIsAbleToCreateContactWithDataFields -->
+    </classes>
+  </test> <!-- FirefoxTest(failed) -->
+</suite> <!-- Failed suite [CrossBrowserSuite_testng.xml] -->
